@@ -1,0 +1,38 @@
+{
+  "name": "fody-redux",
+  "version": "1.0.0",
+  "description": "Render in react with redux with context and layout",
+  "main": "lib/ReduxApp.js",
+  "jspm": {
+    "main": "browser/lib/ReduxApp.js",
+    "lib": "browser/"
+  },
+  "scripts": {
+    "test": "make test",
+    "lint": "make lint",
+    "build": "make build",
+    "postpublish": "make post-publish",
+    "preversion": "make pre-version",
+    "version": "make version",
+    "watch": "make watch"
+  },
+  "repository": "turacojs/fody-redux",
+  "keywords": [
+    "react"
+  ],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turacojs/fody-redux/issues"
+  },
+  "homepage": "https://github.com/turacojs/fody-redux#readme",
+  "devDependencies": {
+    "springbokjs-library": "^12.3.0"
+  },
+  "dependencies": {
+    "fody": "^1.0.0",
+    "react": "^0.14.3",
+    "react-redux": "^4.0.6",
+    "redux": "^3.0.5"
+  }
+}
