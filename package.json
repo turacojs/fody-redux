@@ -5,7 +5,9 @@
   "main": "lib/ReduxApp.js",
   "jspm": {
     "main": "browser/lib/ReduxApp.js",
-    "lib": "browser/"
+    "directories": {
+      "lib": "browser"
+    }
   },
   "scripts": {
     "test": "make test",
