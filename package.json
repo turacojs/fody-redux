@@ -1,6 +1,6 @@
 {
   "name": "fody-redux",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Render in react with redux with context and layout",
   "main": "lib/ReduxApp.js",
   "jspm": {
