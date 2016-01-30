@@ -9,7 +9,7 @@ export default class ReduxAppWithProvider extends Component {
                 store: PropTypes.object.isRequired,
             }),
         }),
-    }
+    };
 
     render() {
         return <Provider store={this.props.context.context.store}>
