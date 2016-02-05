@@ -4,7 +4,7 @@
   "description": "Render in react with redux with context and layout",
   "main": "lib/ReduxApp.js",
   "jspm": {
-    "main": "browser/lib/ReduxApp.js",
+    "main": "lib/ReduxApp.js",
     "directories": {
       "lib": "browser"
     }
