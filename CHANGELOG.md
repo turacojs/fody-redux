@@ -1,3 +1,7 @@
+### v3.0.0
+
+- [`ef9352f`](https://github.com/turacojs/fody-redux-app/commit/ef9352f88c566ca65463d4f711e8e7d39a531f0e) rename fody-redux-app, use fody-app (Christophe Hurpeau)
+
 ### v2.0.2
 
 - [`0386d11`](https://github.com/turacojs/fody-redux/commit/0386d11cbe0909c417d71fd0f8298ac217bc4f53) fix browser field in package.json (Christophe Hurpeau)
