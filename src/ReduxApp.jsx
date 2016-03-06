@@ -1,4 +1,4 @@
-import DefaultApp from 'fody/lib/App';
+import DefaultApp from 'fody-app';
 import React, { Component, PropTypes } from 'react';
 import { Provider } from 'react-redux';
 

@@ -20,9 +20,9 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = undefined;
 
-var _App = require('fody/lib/App');
+var _fodyApp = require('fody-app');
 
-var _App2 = _interopRequireDefault(_App);
+var _fodyApp2 = _interopRequireDefault(_fodyApp);
 
 var _react = require('react');
 
@@ -80,7 +80,7 @@ var ReduxAppWithProvider = (_temp = _class = /**
             return _react2.default.createElement(
                 _reactRedux.Provider,
                 { store: this.props.context.context.store },
-                _react2.default.createElement(_App2.default, this.props)
+                _react2.default.createElement(_fodyApp2.default, this.props)
             );
         }
     }]);
