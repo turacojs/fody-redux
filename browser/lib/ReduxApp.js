@@ -1,5 +1,10 @@
 'use strict';
 
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+exports.default = undefined;
+
 var _createClass = /**
                     * @function
                    */ function () { /**
@@ -14,11 +19,6 @@ var _createClass = /**
                                                                                                                                                                                                                                                                                                                                                                            */ function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; } ); }();
 
 var _class, _temp;
-
-Object.defineProperty(exports, "__esModule", {
-    value: true
-});
-exports.default = undefined;
 
 var _fodyApp = require('fody-app');
 
