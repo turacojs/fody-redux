@@ -1,3 +1,7 @@
+### v4.0.0
+
+- [`804c63e`](https://github.com/turacojs/fody-redux-app/commit/804c63ee9781095e0fe67b5cbed5e736e6f267be) react 15 (Christophe Hurpeau)
+
 ### v3.0.0
 
 - [`ef9352f`](https://github.com/turacojs/fody-redux-app/commit/ef9352f88c566ca65463d4f711e8e7d39a531f0e) rename fody-redux-app, use fody-app (Christophe Hurpeau)
