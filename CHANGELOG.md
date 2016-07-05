@@ -1,3 +1,7 @@
+### v5.0.0
+
+- [`fec791c`](https://github.com/turacojs/fody-redux-app/commit/fec791cce4f9afa31c5667d9df7c722a686966e6) pob, fody@5 (Christophe Hurpeau)
+
 ### v4.0.0
 
 - [`804c63e`](https://github.com/turacojs/fody-redux-app/commit/804c63ee9781095e0fe67b5cbed5e736e6f267be) react 15 (Christophe Hurpeau)
@@ -19,6 +23,3 @@
 - [`faf4192`](https://github.com/turacojs/fody-redux/commit/faf41923999ce975d30b02607ef3a24b51898bd7) upgrade dependencies (Christophe Hurpeau)
 
 ### v1.0.1
-
-
-

@@ -1,6 +1,6 @@
 {
   "name": "fody-redux-app",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "React/Redux App with context",
   "keywords": [
     "react"
