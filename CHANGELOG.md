@@ -1,3 +1,8 @@
+### v5.1.0
+
+- [`4c73715`](https://github.com/turacojs/fody-redux-app/commit/4c73715f3163d4c47889bc733932a463ed2b6391) refactor: pob update (Christophe Hurpeau)
+- [`9980aad`](https://github.com/turacojs/fody-redux-app/commit/9980aad39fff764b5d6a734d8eece0c013b365d8) chore(package): update dependencies (Christophe Hurpeau)
+
 ### v5.0.0
 
 - [`fec791c`](https://github.com/turacojs/fody-redux-app/commit/fec791cce4f9afa31c5667d9df7c722a686966e6) pob, fody@5 (Christophe Hurpeau)
